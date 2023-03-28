@@ -38,10 +38,7 @@ Here are some ideas to get you started:
 </details>
 <br />
 <br />
-<details>
-  <summary>:zap: Top Language Used</summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachincalicut&hide_progress=true)](https://github.com/sachincalicut/)
-</details>
+
  <br />
  
 <details>
