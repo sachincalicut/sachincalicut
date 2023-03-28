@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 ### Connect with me:
+
 [![Linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/sachin-calicut/#gh-light-mode-only)
 [![Linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sachin-calicut/#gh-dark-mode-only)
 <br/>
@@ -42,11 +43,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/motion-canvas/examples/issues/3) in [motion-canvas/examples](https://github.com/motion-canvas/examples)
-2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/gentree-generator/pull/1) in [codeSTACKr/gentree-generator](https://github.com/codeSTACKr/gentree-generator)
-3. 💪 Opened PR [#1](https://github.com/codeSTACKr/gentree-generator/pull/1) in [codeSTACKr/gentree-generator](https://github.com/codeSTACKr/gentree-generator)
-4. 💪 Opened PR [#1](https://github.com/studio-demo/cloudcash-sass/pull/1) in [studio-demo/cloudcash-sass](https://github.com/studio-demo/cloudcash-sass)
-5. 🎉 Merged PR [#1](https://github.com/codeSTACKr/superhero-extensions/pull/1) in [codeSTACKr/superhero-extensions](https://github.com/codeSTACKr/superhero-extensions)
+1. 🗣 Commented on
+2. 🎉 Merged PR 
+3. 💪 Opened PR 
+4. 💪 Opened PR 
+5. 🎉 Merged PR 
 <!--END_SECTION:activity-->
 
 </details>
