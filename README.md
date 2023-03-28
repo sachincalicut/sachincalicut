@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-15091
-Fork on GitHub
-4086
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Sachin</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -23,7 +7,13 @@ preview
 
 - 🌱 I’m currently learning **React and Vue etc**
 
+- 📝 I regularly write articles on [https://medium.com/@sachisavera](https://medium.com/@sachisavera)
+
+- 💬 Ask me about **https://about.me/sachincalicut**
+
 - 📫 How to reach me **sachisavera@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/sachin-calicut/](https://www.linkedin.com/in/sachin-calicut/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -43,4 +33,4 @@ preview
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachincalicut&show_icons=true&locale=en" alt="sachincalicut" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachincalicut&" alt="sachincalicut" /></p>
