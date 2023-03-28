@@ -49,5 +49,5 @@
   <hr />
   <details>
     <summary align="left"> Overview </summary>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sachincalicut&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="sachincalicut" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sachincalicut&theme=dark" alt="sachincalicut" /></p>
   </details>
