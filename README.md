@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
 <h3 align="center">Frontend UI Developer</h3>
+## Badges
 
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachincalicut&label=Profile%20views&color=0e75b6&style=flat" alt="sachincalicut" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachincalicut" alt="sachincalicut" /></a> </p>
