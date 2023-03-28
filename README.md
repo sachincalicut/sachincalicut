@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sachin-calicut/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sachin-calicut/#gh-dark-mode-only)
+[![Linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/sachin-calicut/#gh-light-mode-only)
+[![Linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sachin-calicut/#gh-dark-mode-only)
