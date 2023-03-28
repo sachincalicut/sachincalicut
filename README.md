@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, Im Sachin
 - 🔭 I’m currently working on [Code Challenge](https://github.com/sachincalicut/CodeChallege.git)<br><br>- 🌱 I’m currently learning **React and Vue etc**<br><br>- 👯 I’m looking to collaborate on [Code Challenge](https://github.com/sachincalicut/CodeChallege.git)<br><br>- 📝 I regularly write articles on [https://medium.com/@sachisavera](https://medium.com/@sachisavera)<br><br>- 💬 Ask me about **https://about.me/sachincalicut**<br><br>- 📫 How to reach me **sachisavera@gmail.com**<br><br>- 📄 Know about my experiences [https://www.linkedin.com/in/sachin-calicut/](https://www.linkedin.com/in/sachin-calicut/)
 
 
