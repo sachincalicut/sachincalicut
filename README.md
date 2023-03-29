@@ -16,13 +16,9 @@
 <hr />
 <details>
   <summary align="left">📝 Article</summary>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sachisavera/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachisavera/0" alt="Recent Article 0"> 
+ <a target="_blank" href="https://medium.com/@sachisavera/how-to-select-the-perfect-brand-imagery-for-your-business-20c6339bad03?source=friends_link&sk=67e9b8c7bb8fa81f7ad5d5af985fbb32"><img src="https://miro.medium.com/v2/resize:fill:140:140/1*Lqt58807tQBf4mluQr80LQ.png" alt="Recent Article 0"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sachisavera/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachisavera/1" alt="Recent Article 1"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sachisavera/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachisavera/2" alt="Recent Article 2"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sachisavera/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachisavera/3" alt="Recent Article 3"> 
  </details>
  <br />
   <br />
