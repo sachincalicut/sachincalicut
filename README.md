@@ -14,11 +14,11 @@
 <br />
 <br />
 <hr />
-<details>
-  <summary align="left">📝 Article</summary>
+📝 Blog Post:
+<br />
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sachisavera/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachisavera/0" alt="Recent Article 0"> 
 
- </details>
+
  <br />
   <br />
 ## 🏆 GitHub Trophies
