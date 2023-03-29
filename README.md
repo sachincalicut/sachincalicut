@@ -1,7 +1,7 @@
  <p align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
   <h2 align="center">GitHub Profile Trophy</h2>
-  <p align="center">💫 Hi, Im Sachin [![](https://visitcount.itsvg.in/api?id=sachincalicut&icon=0&color=0)](https://visitcount.itsvg.in)</p>
+  💫 Hi, Im Sachin [![](https://visitcount.itsvg.in/api?id=sachincalicut&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>  
 
 - 🔭 I’m currently working on [Code Challenge](https://github.com/sachincalicut/CodeChallege.git)<br><br>- 🌱 I’m currently learning **React and Vue etc**<br><br>- 👯 I’m looking to collaborate on [Code Challenge](https://github.com/sachincalicut/CodeChallege.git)<br><br>- 📝 I regularly write articles on [https://medium.com/@sachisavera](https://medium.com/@sachisavera)<br><br>- 💬 Ask me about **https://about.me/sachincalicut**<br><br>- 📫 How to reach me **sachisavera@gmail.com**<br><br>- 📄 Know about my experiences [https://www.linkedin.com/in/sachin-calicut/](https://www.linkedin.com/in/sachin-calicut/)
