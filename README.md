@@ -27,8 +27,7 @@
 
  <br />
   <br />
-## 🏆 GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=sachincalicut&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github-profile-trophy.vercel.app/?sachincalicut=ryo-ma&theme=nord)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
