@@ -16,7 +16,7 @@
 <hr />
 <details>
   <summary align="left">📝 Article</summary>
- <a target="_blank" href="https://medium.com/@sachisavera/how-to-select-the-perfect-brand-imagery-for-your-business-20c6339bad03?source=friends_link&sk=67e9b8c7bb8fa81f7ad5d5af985fbb32">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sachisavera/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachisavera/0" alt="Recent Article 0"> 
 
  </details>
  <br />
