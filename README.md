@@ -27,7 +27,7 @@ shorturl.at/cmBR8
 # 📝 Blog Post:
 <br />
 <br />
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sachisavera/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachisavera/0" alt="Recent Article 0"> 
+![sachincalicut's blog](https://github-read-medium.vercel.app/latest?username=@sachisavera&limit=6&theme=nord)
 
  
 # ✍️ Random Dev Quote
