@@ -8,10 +8,10 @@ shorturl.at/cmBR8
 ![sachincalicut's trophy](https://github-profile-trophy.vercel.app/?username=sachincalicut&theme=nord&column=7&margin-w=10&margin-h=15)
 <br />
 <br />
-🔭 I’m currently working on [Code Challenge](https://github.com/sachincalicut/CodeChallege.git)<br><br>🌱 I’m currently learning **React and Vue etc**<br><br>- 👯 I’m looking to collaborate on [Code Challenge](https://github.com/sachincalicut/CodeChallege.git)<br><br>📝 I regularly write articles on [https://medium.com/@sachisavera](https://medium.com/@sachisavera)<br><br>💬 Ask me about **https://about.me/sachincalicut**<br><br>📫 How to reach me **sachisavera@gmail.com**<br><br>📄 Know about my experiences [https://www.linkedin.com/in/sachin-calicut/](https://www.linkedin.com/in/sachin-calicut/)
+🔭 I’m currently working on [Code Challenge](https://github.com/sachincalicut/CodeChallege.git)<br><br>🌱 I’m currently learning **React and Vue etc**<br><br>👯 I’m looking to collaborate on [Code Challenge](https://github.com/sachincalicut/CodeChallege.git)<br><br>📝 I regularly write articles on [https://medium.com/@sachisavera](https://medium.com/@sachisavera)<br><br>💬 Ask me about **https://about.me/sachincalicut**<br><br>📫 How to reach me **sachisavera@gmail.com**<br><br>📄 Know about my experiences [https://www.linkedin.com/in/sachin-calicut/](https://www.linkedin.com/in/sachin-calicut/)
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sachin-calicut) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sachincalicut#1650) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-calicut) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sachisavera) 
 
 # 💻 Tech Stack:
@@ -23,17 +23,17 @@ shorturl.at/cmBR8
 <br />
 <br />
 <hr />
-📝 Blog Post:
+# 📝 Blog Post:
 <br />
 <br />
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sachisavera/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachisavera/0" alt="Recent Article 0"> 
 
  
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-## 💰 You can help me by Donating
+# 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sachincalicut) 
 
-  [![](https://visitcount.itsvg.in/api?id=sachincalicut&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sachincalicut&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
