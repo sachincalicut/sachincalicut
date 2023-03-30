@@ -24,10 +24,6 @@
 <br />
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sachisavera/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachisavera/0" alt="Recent Article 0"> 
 
-
- <br />
-  <br />
-[![trophy](https://github-profile-trophy.vercel.app/?sachincalicut=ryo-ma&row=2&column=3[![trophy](https://github-profile-trophy.vercel.app/?username=sachincalicut&row=2&column=3&theme=onedark)](https://github.com/sachincalicut/github-profile-trophy)
  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
