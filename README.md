@@ -26,7 +26,7 @@ shorturl.at/cmBR8
 <hr />
 # 📝 Blog Post:
 
-![sachincalicut's blog](https://github-read-medium.vercel.app/latest?username=@sachisavera&limit=6&theme=nord)
+![@sachisavera's blog](https://github-read-medium.vercel.app/latest?username=@sachisavera&limit=6&theme=nord)
 
  
 # ✍️ Random Dev Quote
