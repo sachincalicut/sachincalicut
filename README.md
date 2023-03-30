@@ -8,6 +8,10 @@ shorturl.at/cmBR8
 ![sachincalicut's trophy](https://github-profile-trophy.vercel.app/?username=sachincalicut&theme=nord&column=7&margin-w=10&margin-h=15)
 <br />
 <br />
+![sachincalicut's github stats](https://github-readme-stats.vercel.app/api?username=sachincalicut&show_icons=true&line_height=21&show_icons=true&theme=nord)
+<span style="display:inline-block; width: 10px;"></span>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachincalicut&show_icons=true&layout=compact&theme=nord&count_private=truecount_private=true
+
 🔭 I’m currently working on [Code Challenge](https://github.com/sachincalicut/CodeChallege.git)<br><br>🌱 I’m currently learning **React and Vue etc**<br><br>👯 I’m looking to collaborate on [Code Challenge](https://github.com/sachincalicut/CodeChallege.git)<br><br>📝 I regularly write articles on [https://medium.com/@sachisavera](https://medium.com/@sachisavera)<br><br>💬 Ask me about **https://about.me/sachincalicut**<br><br>📫 How to reach me **sachisavera@gmail.com**<br><br>📄 Know about my experiences [https://www.linkedin.com/in/sachin-calicut/](https://www.linkedin.com/in/sachin-calicut/)
 
 
