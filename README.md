@@ -14,7 +14,7 @@ shorturl.at/cmBR8
 
 🔭 I’m currently working on [Code Challenge](https://github.com/sachincalicut/CodeChallege.git)<br><br>🌱 I’m currently learning **React and Vue etc**<br><br>👯 I’m looking to collaborate on [Code Challenge](https://github.com/sachincalicut/CodeChallege.git)<br><br>📝 I regularly write articles on [https://medium.com/@sachisavera](https://medium.com/@sachisavera)<br><br>💬 Ask me about **https://about.me/sachincalicut**<br><br>📫 How to reach me **sachisavera@gmail.com**<br><br>📄 Know about my experiences [https://www.linkedin.com/in/sachin-calicut/](https://www.linkedin.com/in/sachin-calicut/)
 
-# 🌐 Socials:
+🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sachin-calicut) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sachincalicut#1650) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-calicut) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sachisavera) 
 
 💰 You can help me by Donating
