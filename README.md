@@ -16,9 +16,12 @@ shorturl.at/cmBR8
 
 🌐 Socials:
 <br />
+<br />
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sachin-calicut) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sachincalicut#1650) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-calicut) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sachisavera) 
 
-💰 You can help me by Donating
+💰 You can help me by Donating<br />
+<br />
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sachincalicut) 
-
+<br />
+<br />
 [![](https://visitcount.itsvg.in/api?id=sachincalicut&icon=0&color=0)](https://visitcount.itsvg.in)
