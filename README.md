@@ -1,6 +1,5 @@
- <p align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
-  <h2 align="left">💫 Hi, Im Sachin </h2>
+ <p>
+<h2 align="left">💫 Hi, Im Sachin </h2>
   My name is Sachin Chanduveetil, just call me Sachin. Currently working at Insight Direct India LLP. I'm always looking for something new and adopt it for maximizing development efficiency & produce an innovative solution. I'm code mainly on Frontend Development and very experienced on it, also I can code in other Web Development stack. More information about me please visit my linkedin profile
 shorturl.at/cmBR8
 </p>  
