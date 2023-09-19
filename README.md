@@ -1,7 +1,7 @@
  <p>
 <h2 align="left">💫 Hi, Im Sachin </h2>
   My name is Sachin Chanduveetil, just call me Sachin. Currently working at Insight Direct India LLP. I'm always looking for something new and adopt it for maximizing development efficiency & produce an innovative solution. I'm code mainly on Frontend Development and very experienced on it, also I can code in other Web Development stack. More information about me please visit my linkedin profile
-shorturl.at/cmBR8
+[shorturl.at/cmBR8](https://www.linkedin.com/in/sachin-calicut/)
 </p>  
 
 ![sachincalicut's trophy](https://github-profile-trophy.vercel.app/?username=sachincalicut&theme=nord&column=7&margin-w=10&margin-h=15)
